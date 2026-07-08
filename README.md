@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Aditya Saxena
 # Hi there 👋, I'm Aditya Saxena<br><br>🚀 Java Full-Stack Developer passionate about building scalable web applications and solving challenging problems through code.<br><br>🎓 B.Tech in Computer Science Engineering<br><br>💻 **Tech Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, React, REST APIs, HTML, CSS, JavaScript<br><br>📚 Solved **500+ Data Structures & Algorithms** problems on LeetCode and actively improving problem-solving skills through competitive programming.<br><br>🌱 Currently learning advanced backend development, system design, and cloud technologies.<br><br>🎯 Open to **Software Engineer**, **Java Backend Developer**, and **Full-Stack Developer** opportunities.<br><br>📫 Let's connect and build something amazing!<br>
 
 
